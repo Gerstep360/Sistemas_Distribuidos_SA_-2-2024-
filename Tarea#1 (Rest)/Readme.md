@@ -16,29 +16,25 @@ Este proyecto implementa un simple servicio REST utilizando Flask, que incluye d
 
 1. Clona este repositorio en tu máquina local.
 
-   \`\`\`bash
+   ```bash
    git clone https://tu-repositorio.git
-   \`\`\`
 
 2. Navega al directorio del proyecto.
 
-   \`\`\`bash
-   cd nombre-del-proyecto
-   \`\`\`
+   ```bash
+   cd Tarea#1 (Rest)
 
 3. Instala las dependencias necesarias.
 
-   \`\`\`bash
+   ```bash
    pip install flask
-   \`\`\`
 
 4. Ejecuta la aplicación Flask.
 
-   \`\`\`bash
-   python metodo\\ rest.py
-   \`\`\`
+   ```bash
+   python metodo_rest.py
 
-5. Abre tu navegador y navega a `http://localhost:5000` para acceder a la interfaz web.
+5. Abre tu navegador y navega a `http://[localhost]:5000` para acceder a la interfaz web.
 
 ## Uso de la Aplicación
 
