@@ -19,7 +19,7 @@ def get_local_ip():
 @app.route('/')
 def index():
     local_ip = get_local_ip()
-    with open('index.html', 'r') as file:
+    with open('Tarea#1 (Rest)\index.html', 'r') as file:
         html_content = file.read().replace("{{LOCAL_IP}}", local_ip)
         return render_template_string(html_content)
 

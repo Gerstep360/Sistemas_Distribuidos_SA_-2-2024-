@@ -1,0 +1,13 @@
+Servicios (Segip->Registrar datos de una persona (Cliente).)
+1.-Manejo de Errores
+2.-Manejo de Tokens
+3.-Cambiar la arquitectura:
+
+Cliente:
+[UI-> Front-end]
+
+Servidor#1:
+[Api]
+
+Servidor#2:
+[Base de datos]
